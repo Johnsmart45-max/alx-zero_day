@@ -1,1 +1,1 @@
-My first readme
+*Emphasize*Day zero, 0x03-git*Emphasize*
