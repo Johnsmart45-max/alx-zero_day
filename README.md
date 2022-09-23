@@ -1,1 +1,1 @@
-*Emphasize*Day zero, 0x03-git*Emphasize*
+My first readme got updated!
